@@ -1,0 +1,5 @@
+twemproxy (0.2.4-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Danny van der Meulen <dmeulen@ebay.com>  Mon, 02 Dec 2013 16:44:28 +0100
